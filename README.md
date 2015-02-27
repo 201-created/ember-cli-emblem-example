@@ -2,6 +2,7 @@
 
 This is a sample repository showcasing the usage of [Emblem.js](http://emblemjs.com/) using the new
 [ember-cli-emblem-hbs-printer addon](https://github.com/201-created/ember-cli-emblem-hbs-printer).
+The [templates](https://github.com/201-created/ember-cli-emblem-example/tree/master/app/templates) are a mix of `.emblem` and `.hbs` files and they work seamlessly together.
 
 ## Prerequisites
 
