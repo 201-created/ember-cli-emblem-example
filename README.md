@@ -1,7 +1,7 @@
 # Ember-cli-emblem
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a sample repository showcasing the usage of [Emblem.js](http://emblemjs.com/) using the new
+[ember-cli-emblem-hbs-printer addon](https://github.com/201-created/ember-cli-emblem-hbs-printer).
 
 ## Prerequisites
 
